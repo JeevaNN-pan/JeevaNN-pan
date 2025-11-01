@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B" alt="Hi" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hii%2C+I'm+Jeevan!+%F0%9F%91%8B" alt="Hi" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+Dev+%7C+ML+Enthusiast" alt="Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome" />
 
 <br/>
 
