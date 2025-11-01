@@ -1,7 +1,14 @@
 <!-- =============================== -->
-<!--          Jeevan Kumar Panda     -->
-<!--         GitHub Profile README   -->
+<!--        Jeevan Kumar Panda       -->
+<!--       GitHub Profile README     -->
 <!-- =============================== -->
+
+<!-- 🎯 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Jeevan+Kumar+Panda;Data+Science+%7C+Python+Developer;I+build+data-driven+and+automation+projects;Always+learning+new+things+🚀" alt="Typing Animation" />
+</p>
+
+---
 
 # 💫 About Me:
 👋 Hi, I’m **Jeevan Kumar Panda**, a developer passionate about building **data-centric** and **automation-driven** projects.
@@ -64,18 +71,13 @@ I believe in writing clean, efficient, and well-documented code.
 
 ---
 
-# ✨ Fun Visualization (Better than the Snake Game!)
-Instead of the typical snake game, here’s something *unique* — a dynamic **skyline animation** made from your contributions 🌇
-
+# 🎨 Animated Visualizer (Unique Touch!)
 <p align="center">
-  <img src="https://github.com/JeevaNN-pan/JeevaNN-pan/blob/output/github-contribution-grid-skyline.svg" alt="GitHub Skyline" />
+  <img src="https://github.com/JeevaNN-pan/JeevaNN-pan/blob/main/assets/coding.gif" alt="Coding Animation" width="500"/>
 </p>
 
-*(Generated from your GitHub contributions — it turns your activity into a 3D city skyline!)*  
-You can explore it live at 👉 [skyline.github.com](https://skyline.github.com/)
+> 🧠 *“Code, analyze, automate — and repeat.”*
 
 ---
-
-![](https://komarev.com/ghpvc/?username=JeevaNN-pan&label=Profile%20Views&color=blue&style=flat)
 
 <!-- Proudly customized by Jeevan Kumar Panda -->
