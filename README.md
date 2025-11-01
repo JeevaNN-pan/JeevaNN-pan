@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B" alt="Hi" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Jeevan+Kumar+Panda+%F0%9F%91%8B" alt="Name" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Enthusiast+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;ML+Explorer+%F0%9F%A4%96;Automation+Architect+%E2%9A%A1;Building+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+Dev+%7C+ML+Enthusiast" alt="Roles" />
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-<br/>
-
-### 👨‍💻 Developer | 📊 Data Analyst | 🤖 ML Enthusiast
 
 </div>
 
