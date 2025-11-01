@@ -57,6 +57,8 @@ class JeevanPanda:
   
 ### 🧰 My Toolbox
 
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
 </div>
 
 <details open>
@@ -114,8 +116,15 @@ class JeevanPanda:
 <img src="https://github-readme-stats.vercel.app/api?username=JeevaNN-pan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaNN-pan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" height="180" alt="languages graph"  />
 
-### 📈 Contribution Graph
-[![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeevaNN-pan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/JeevaNN-pan)
+<br/><br/>
+
+### 🎮 Take a Break - Play Snake!
+
+<div align="center">
+  <a href="https://github.com/JeevaNN-pan">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
+  </a>
+</div>
 
 </div>
 
