@@ -27,6 +27,7 @@ class JeevanPanda:
         self.role = "Data-Centric Developer"
         self.location = "India 🇮🇳"
         self.passions = ["Data Analysis", "ML", "Automation", "Clean Code"]
+        self.portfolio = "jeevankportfolio.netlify.app"
     
     def get_focus_areas(self):
         return {
@@ -47,6 +48,7 @@ class JeevanPanda:
 - 🔭 Building **data-centric** and **automation-driven** projects
 - 🌱 Currently exploring **Dashboards**, **Flask Apps**, and **ML model deployment**
 - 💡 Believer in **clean, efficient, and well-documented code**
+- 🌐 Check out my work: **[jeevankportfolio.netlify.app](https://jeevankportfolio.netlify.app)**
 - 📫 Reach me at: **jeevanpanda1234@gmail.com**
 
 ---
@@ -134,12 +136,12 @@ class JeevanPanda:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevanpan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevanpanda1234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jeevankportfolio.netlify.app)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ### 💭 Random Dev Quote
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100" alt="Einstein">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35dd0b.gif" width="100" alt="Einstein">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
