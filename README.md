@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=700&size=50&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hii%2C+I'm+Jeevan!+%F0%9F%91%8B" alt="Hi" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=700&size=50&duration=1500&pause=500&color=FF6B9D&center=true&vCenter=true&repeat=true&width=600&lines=Hii%2C+I'm+Jeevan!+%F0%9F%91%8B" alt="Hi" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=400&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Specialist+in+coffee+breaks+%E2%98%95%F0%9F%98%84" alt="Welcome" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=400&size=24&duration=1800&pause=500&color=FFA500&center=true&vCenter=true&repeat=true&width=700&lines=Specialist+in+coffee+breaks+%E2%98%95%F0%9F%98%84" alt="Welcome" />
 
 <br/>
 
