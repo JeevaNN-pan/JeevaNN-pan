@@ -141,6 +141,9 @@ class JeevanPanda:
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 🧠 Philosophy of the Day
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=default" alt="Philosopher Quote" />
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=JeevaNN-pan&style=for-the-badge&color=blueviolet" alt="Profile Views" />
