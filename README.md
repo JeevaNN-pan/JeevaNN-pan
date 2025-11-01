@@ -57,9 +57,9 @@ class JeevanPanda:
   
 ### 🧰 My Toolbox
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
 </div>
+
+<img align="right" alt="Python" width="300" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
 <details open>
 <summary><b>🔥 Core Technologies</b></summary>
