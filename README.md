@@ -117,31 +117,6 @@ class JeevanPanda:
 ### 📈 Contribution Graph
 [![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeevaNN-pan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/JeevaNN-pan)
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/JeevaNN-pan/JeevaNN-pan/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/JeevaNN-pan/your-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeevaNN-pan&repo=your-project-1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JeevaNN-pan/your-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeevaNN-pan&repo=your-project-2&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/JeevaNN-pan/your-project-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeevaNN-pan&repo=your-project-3&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JeevaNN-pan/your-project-4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeevaNN-pan&repo=your-project-4&theme=tokyonight&hide_border=true" />
-</a>
-
 </div>
 
 ---
