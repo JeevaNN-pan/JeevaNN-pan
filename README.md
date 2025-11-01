@@ -1,11 +1,11 @@
 <div align="center">
 
-<h1 style="color: #FF6B9D; font-family: Satisfy; font-size: 50px; font-weight: 700;">
-  Hii, I'm Jeevan! 👋
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=700&size=50&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=700&lines=Hii%2C+I'm+Jeevan!+%F0%9F%91%8B" alt="Name Animation" />
 </h1>
 
-<h2 style="color: #FFA500; font-family: Courier Prime; font-size: 24px; font-weight: 400;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=400&size=24&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&repeat=true&width=700&lines=Specialist+in+coffee+breaks+%E2%98%95%F0%9F%98%84" alt="Typing Animation" />
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=400&size=24&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&repeat=true&width=700&lines=Specialist+in+coffee+breaks+%E2%98%95%F0%9F%98%84" alt="Subtitle Animation" />
 </h2>
 
 <br/>
