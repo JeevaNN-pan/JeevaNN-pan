@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hii%2C+I'm+Jeevan!+%F0%9F%91%8B" alt="Hi" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!+%E2%9C%A8" alt="Welcome" />
 
 <br/>
 
